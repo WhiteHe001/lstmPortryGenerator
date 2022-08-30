@@ -2,4 +2,4 @@ __pycache__
 .DS_Store
 *.pt
 *.mat
-*.txt
+dataset/raw_data/*.txt
